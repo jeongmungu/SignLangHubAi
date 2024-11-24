@@ -1,0 +1,2 @@
+# SignLangHubAi
+mediapipe model
