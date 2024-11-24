@@ -1,2 +1,2 @@
 # SignLangHubAi
-mediapipe model
+mediapipe modelaaa
